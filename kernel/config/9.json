@@ -1,0 +1,7 @@
+{
+"scheduler_algorithm": "SRT",
+"ready_ingress_algorithm": "PMCP",
+"alpha": 0.75,
+"initial_estimate": 100,
+"suspension_time": 3000
+}

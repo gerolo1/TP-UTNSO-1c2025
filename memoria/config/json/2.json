@@ -1,0 +1,8 @@
+{
+  "memory_size": 256,
+  "page_size": 16,
+  "entries_per_page": 4,
+  "number_of_levels": 2,
+  "memory_delay": 500,
+  "swap_delay": 3000
+}

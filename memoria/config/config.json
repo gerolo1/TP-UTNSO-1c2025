@@ -1,0 +1,8 @@
+{
+  "port_memory": 8002,
+  "ip_memory": "127.0.0.1",
+  "swapfile_path": "memoria/swapfile.bin",
+  "log_level": "INFO",
+  "dump_path": "memoria/dumps/",
+  "scripts_path": "memoria/scripts/"
+}
